@@ -28,9 +28,12 @@
 ---
 
 ### 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,react,bootstrap,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,react,bootstrap,mysql,git,github,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter Notebook" />
 </p>
+
 
 ---
 
