@@ -34,11 +34,11 @@
 
 ---
 
-### 📈 GitHub Stats
+<!--### 📈 GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sai-vj&show_icons=true&theme=tokyonight" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-vj&layout=compact&theme=tokyonight" />
-</p>
+</p>-->
 
 ---
 
