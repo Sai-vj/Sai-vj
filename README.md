@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sairam V</h1>
-<h3 align="center">🚀 Python Full Stack Developer | Django | React | MySQL</h3>
+<h3 align="center">🚀 Python Full Stack Developer | Django | Python | MySQL |Html&Css</h3>
 
 <p align="center">
   <a href="https://sai-vj.github.io/" target="_blank">
@@ -19,11 +19,11 @@
 ---
 
 ### 💡 About Me
-- 🧑‍💻 Passionate **Python Full Stack Developer** skilled in **Django, Flask, React.js, and MySQL**
+- 🧑‍💻 Passionate **Python Full Stack Developer** skilled in **Django, Flask, Java Script, and MySQL**
 - ⚙️ Building scalable web apps, REST APIs, and automation tools  
 - 🎯 Currently exploring **AI integrations (OpenAI API)** and **Microservices**
 - 🌱 Always eager to learn new tech & improve UI/UX  
-- 💬 Ask me about **Django REST Framework, Flask, React.js, MySQL, and Deployment**
+- 💬 Ask me about **Python ,Django REST Framework, Flask, Java Script, MySQL, and Deployment**
 
 ---
 
@@ -43,14 +43,14 @@
 ---
 
 ### 🏗️ Featured Projects
-- 💼 [HireHive — Full Stack ATS (Django + React)](https://sai-vj.github.io/Portfolio/)
+- 💼 [HireHive — Full Stack ATS (Django + Java Script)](https://sai-vj.github.io/Portfolio/)
 - 🚌 [Smart Bus Ticketing — Tkinter + MySQL](https://sai-vj.github.io/Portfolio/)
 
 ---
 
 ### 🏆 Achievements
 - 🥇 Completed **Full Stack Web Development Training** at Refinement Software Solutions  
-- 🌱 Built multiple real-world Django + React applications  
+- 🌱 Built multiple real-world Django + Java script applications  
 - 🌿 Contributed to **Open Source Projects** and community-driven tools  
 
 ---
